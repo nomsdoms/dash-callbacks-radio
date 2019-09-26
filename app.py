@@ -9,7 +9,7 @@ from dash.dependencies import Input, Output, State
 myheading1='Emotions'
 tabtitle = 'Feelings'
 list_of_options=['Happy', 'Sad', 'Neutral', 'Surprised']
-list_of_images=['happy.png', 'sad.png', 'neutral.png', 'surprised.png']
+list_of_images=['happy.png', 'sad.png', 'neutral.png', 'surprised.png','celebrate.png']
 sourceurl = 'https://en.wikipedia.org/wiki/Emoji'
 githublink = 'https://github.com/nomsdoms/dash-callbacks-radio/'
 
